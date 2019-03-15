@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(t,e,i){"use strict";i.r(e);var n=function(){var t=this,e=t.$createElement;t._self._c;return t._m(0)},s=[function(){var t=this,e=t.$createElement,i=t._self._c||e;return i("div",{staticClass:"about"},[i("h1",[t._v("About")]),i("p",[t._v("This is a Todo list App, I built this to practice working with Vue :)")])])}],u=i("2877"),a={},o=Object(u["a"])(a,n,s,!1,null,null,null);e["default"]=o.exports}}]);
+//# sourceMappingURL=about.e9557dc0.js.map
