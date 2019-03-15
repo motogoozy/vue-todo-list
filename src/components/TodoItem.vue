@@ -23,6 +23,9 @@ export default {
       background: #f4f4f4;
       padding: 10px;
       border-bottom: 1px #ccc dotted;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
    }
 
    .is-complete {
